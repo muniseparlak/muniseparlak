@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**muniseparlak/muniseparlak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm front end developer Munise Parlak Zeren. I prioritize writing clean and readable code, and I am committed to continuously improving my skills in front-end technologies.
 
-Here are some ideas to get you started:
+About me ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m currently working on Front-end
+- 🎠 Creating and developing user interface design.
+- 🖥️ Creating the basic structure using HTML, CSS and JavaScript.
+- 💬 Ask me muniseparlak@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/munise-parlak-zeren/
+
+##Languages ans Tools:
+
+
+Visual Studio Code
+
+HTML5
+
+CSS3
+
+Sass
+
+JavaScript
+
+
+
